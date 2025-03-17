@@ -648,9 +648,9 @@ body{
 }
 .giftbox .img{
     position: absolute;
-    width: 180px;
-    bottom: -10px;
-    left: 50px;
+    width: 110px;
+    bottom: 150px;
+    left: 5px;
     z-index: 100;
 }
 .giftbox img{
