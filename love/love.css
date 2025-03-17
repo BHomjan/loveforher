@@ -559,10 +559,13 @@ body{
 
 .wrapperLetterForm img {
     position: absolute;
-    left: 0px; /* Move image to the left */
-    top: 50%;
+    left: 10px; /* Move image to the left */
+    top: 65%;
     transform: translateY(-50%);
+    width: 75%; /* Shrink the image (adjust the percentage as needed) */
+    height: auto; /* Maintain aspect ratio */
 }
+
 
 .boxLetter{
     width: 100%;
